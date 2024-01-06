@@ -1,13 +1,12 @@
+// Question:
 /*Given a five digit integer, print the sum of its digits.*/
 
-//Explanation
-
+// Explanation:
 /*I took a number from the user, did an input validation that it's a 5 digit number,
 and then applying the while loop, divided it with 10 until it's 0 and then took another variable "n2",
 and added all the digits of the number to it. All test cases are passed.*/
 
 //Solution:
-
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
